@@ -1,0 +1,11 @@
+For simple movie recommendation,
+Run the file named "Code for movie recommendation.ipynb"
+
+
+For viewing the recommendation engine on the web, 
+Step 1: open the file named "app.py" (make sure to install the required libraries)
+
+Step 2: Open a new terminal in the .py file and type the following command: 	
+		streamlit run app.py
+
+Thank You
